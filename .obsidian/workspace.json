@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0831a301eed53cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "focault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weber.md",
+                "file": "focault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weber.md"
+                "file": "focault.md"
               }
             }
           }
@@ -115,14 +128,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5ee4a8f9b4fd5f30",
+  "active": "0831a301eed53cb5",
   "lastOpenFiles": [
+    "weber.md",
     "PS写作篇章结构以及匹配度论述_0629.md",
     "test/ma2012.pdf",
     "test/ma2012-annotate.md",
     "test/2205.03630.pdf",
-    "未命名.md",
-    "weber.md",
+    "focault.md",
     "testpdf.md",
     "阅读lrx的分支.md",
     "outline.md",
