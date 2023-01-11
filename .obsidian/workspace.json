@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "f7a016f4c1665acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b6c5730423c206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d19790d4aea95ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56e0bee337788931",
+    "type": "split",
+    "children": [
+      {
+        "id": "95bcbfc81170f981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee4a8f9b4fd5f30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad1ec20ec8f765e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b08e91b5c53c431",
+    "type": "split",
+    "children": [
+      {
+        "id": "de8fd0906fd20115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ab90250f0d19b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "weber.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d87448cade28952c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weber.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "5ee4a8f9b4fd5f30",
+  "lastOpenFiles": [
+    "PS写作篇章结构以及匹配度论述_0629.md",
+    "test/ma2012.pdf",
+    "test/ma2012-annotate.md",
+    "test/2205.03630.pdf",
+    "未命名.md",
+    "weber.md",
+    "testpdf.md",
+    "阅读lrx的分支.md",
+    "outline.md",
+    "test/yen-fuou2014.pdf"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "f7a016f4c1665acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fef171ef9be034",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56e0bee337788931",
+    "type": "split",
+    "children": [
+      {
+        "id": "95bcbfc81170f981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee4a8f9b4fd5f30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad1ec20ec8f765e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0b08e91b5c53c431",
+    "type": "split",
+    "children": [
+      {
+        "id": "de8fd0906fd20115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ab90250f0d19b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d87448cade28952c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "36fef171ef9be034",
+  "lastOpenFiles": [
+    "阅读lrx的分支.md",
+    "test/ma2012.pdf",
+    "test/yen-fuou2014.pdf",
+    "PS写作篇章结构以及匹配度论述_0629.md",
+    "daily/2022-06-30.md",
+    "daily/2022-06-29.md",
+    "选校/PS写作篇章结构以及匹配度论述_0629.md"
+  ]
+}
