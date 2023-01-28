@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "30b6c5730423c206",
+        "id": "1a7bf2188bf878b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d19790d4aea95ad4",
+            "id": "ff8eec768a0ddca7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0831a301eed53cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "focault.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "focault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "focault.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +108,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0831a301eed53cb5",
+  "active": "ff8eec768a0ddca7",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "1. 音乐在时空上的物理意义.md",
+    "2. 律制规定.md",
+    "Pasted image 20230128175132.png",
+    "Pasted image 20230128110910.png",
+    "Pasted image 20230128175155.png",
     "weber.md",
-    "PS写作篇章结构以及匹配度论述_0629.md",
-    "test/ma2012.pdf",
-    "test/ma2012-annotate.md",
-    "test/2205.03630.pdf",
     "focault.md",
-    "testpdf.md",
-    "阅读lrx的分支.md",
-    "outline.md",
-    "test/yen-fuou2014.pdf"
+    "PS写作篇章结构以及匹配度论述_0629.md",
+    "test/ma2012.pdf"
   ]
 }
