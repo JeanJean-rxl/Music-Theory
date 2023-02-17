@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7bf2188bf878b1",
+        "id": "4551d0822f444463",
         "type": "tabs",
         "children": [
           {
-            "id": "ff8eec768a0ddca7",
+            "id": "b426d4ddf86bd9c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 律制规定.md",
+                "file": "1. 声音的物理意义.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. 律制规定.md",
+                "file": "1. 声音的物理意义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. 律制规定.md"
+                "file": "1. 声音的物理意义.md"
               }
             }
           }
@@ -115,17 +115,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ff8eec768a0ddca7",
+  "active": "b426d4ddf86bd9c6",
   "lastOpenFiles": [
-    "1. 音乐在时空上的物理意义.md",
     "2. 律制规定.md",
+    "3. 调号和谱号.md",
+    "4. 和声与傅里叶变换.md",
+    "5.VQA-IN blocking.md",
+    "Pasted image 20230129160146.png",
+    "1. 声音的物理意义.md",
     "未命名.canvas",
     "Pasted image 20230128175132.png",
     "Pasted image 20230128110910.png",
-    "Pasted image 20230128175155.png",
-    "weber.md",
-    "focault.md",
-    "PS写作篇章结构以及匹配度论述_0629.md",
-    "test/ma2012.pdf"
+    "Pasted image 20230128175155.png"
   ]
 }
